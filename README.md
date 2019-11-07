@@ -6,3 +6,6 @@
 *Web app built using Flask.*
 
 ### <a href="https://markovify-insult-generator.herokuapp.com/" target="_blank">Try the Web App!<a>
+
+<br>
+<img src="screenshots/insult-generator-screenshot.jpg" width="600">
