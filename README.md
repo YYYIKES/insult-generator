@@ -1,6 +1,6 @@
 # Insult Generator
 
-#### Generates scathing new insults!
+#### Offend your friends and family! Generate scathing insults based on an edited dataset of insults scraped from various places around the web.
 
 *Script written in Python3 using the Markovify package.*<br>
 *Web app built using Flask.*
