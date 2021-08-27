@@ -8,7 +8,7 @@
 ### <a href="https://markovify-insult-generator.herokuapp.com/" target="_blank">Live demo<a>
 </br>
   
-<p><b>Some of my favorites:</b></p>
+<p><b>Generated examples:</b></p>
 I can atone all of humanity's sins by just looking at your parents, but they're probably pieces of shit too.</br>
 You're worse than an elevator full of pencil-thin dildos.</br>
 You’re the kind of person to wank in front of a bear.</br>
